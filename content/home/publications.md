@@ -30,12 +30,18 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+
+  filter_default: 0
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: Programming Languages and Formal Methods
+      tag: Programming Languages and Formal Methods
+    - name: High-Performance Computing
+      tag: High-Performance Computing
 design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}

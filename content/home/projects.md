@@ -27,10 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Programming Languages and Formal Methods
+      tag: Programming Languages and Formal Methods
+    - name: High-Performance Computing
+      tag: High-Performance Computing
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

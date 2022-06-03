@@ -36,7 +36,7 @@ education:
       institution: University of Illinois Urbana-Champaign
       year: 2022-Present
     - course: B.S. in Computer Science and Mathematics
-      institution: University of Alabama
+      institution: University of Alabama (Tuscaloosa)
       year: 2018-2022
 superuser: true
 highlight_name: true

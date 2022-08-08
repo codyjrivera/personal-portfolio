@@ -43,8 +43,8 @@ highlight_name: true
 title: Cody Rivera
 email: ""
 ---
-Hi! I'm an incoming Ph.D. student at the University of Illinois Urbana-Champaign. My current research interests broadly include programming languages, formal methods, compilers, and parallel and distributed computing.
+Hi! I'm an incoming Ph.D. student at the University of Illinois Urbana-Champaign. My current research interests broadly include programming languages, formal methods, compilers, and parallel and distributed computing. I am grateful to be supported by a combination of Illinois' [SURGE](https://grainger.illinois.edu/academics/graduate/funding/surge) and [Graduate College](https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&fid=4684) fellowships.
 
-Prior to joining UIUC, I did research in high-performance computing, where I worked primarily under [Dr. Dingwen Tao](https://www.dingwentao.com). I did this work as part of the [Randall Research Scholars Program](https://rrsp.ua.edu/), an honors interdisciplinary undergraduate research program at the University of Alabama. My research focus was parallel algorithm design and GPU performance engineering for scientific computing. Specific work I contributed to includes the lossy compressor cuSZ (part of the [SZ](https://szcompressor.org) compressor project) and high-performance linear algebra operations.
+Prior to joining Illinois, I did research in high-performance computing, where I worked primarily under [Dr. Dingwen Tao](https://www.dingwentao.com). I did this work as part of the [Randall Research Scholars Program](https://rrsp.ua.edu/), an honors interdisciplinary undergraduate research program at the University of Alabama. My research focus was parallel algorithm design and GPU performance engineering for scientific computing. Specific work I contributed to includes the lossy compressor cuSZ (part of the [SZ](https://szcompressor.org) compressor project) and high-performance linear algebra operations.
 
 See my CV [here](uploads/RiveraCody_pubCV.pdf), and please don't hesitate to [reach out](#contact) to me.

@@ -1,5 +1,5 @@
 ---
-title: Verification of Differential Privacy Properties
+title: Differential Privacy Verification
 summary: Improving decidablility of real-number formulae for verification of differential privacy properties.
 tags:
   - Programming Languages and Formal Methods

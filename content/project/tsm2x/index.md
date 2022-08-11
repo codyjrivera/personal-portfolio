@@ -3,6 +3,7 @@ title: TSM2X
 summary: A set of algorithms for multiplying irregularly-shaped matrices fast on GPUs.
 tags:
   - High-Performance Computing
+date: '2020-01-01T00:00:00Z'
 show_date: false
 
 # Optional external URL for project (replaces project detail page).

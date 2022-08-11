@@ -3,6 +3,7 @@ title: Verification of Differential Privacy Properties
 summary: Improving decidablility of real-number formulae for verification of differential privacy properties.
 tags:
   - Programming Languages and Formal Methods
+date: '2022-01-01T00:00:00Z'
 show_date: false
 
 # Optional external URL for project (replaces project detail page).

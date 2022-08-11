@@ -3,6 +3,7 @@ title: cuSZ
 summary: An error-bounded lossy compressor for scientific datasets on GPUs.
 tags:
   - High-Performance Computing
+date: '2021-01-01T00:00:00Z'
 show_date: false
 
 # Optional external URL for project (replaces project detail page).

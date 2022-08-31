@@ -18,14 +18,15 @@ content:
   # Contact details (edit or remove options as required)
   email: codyjr3 AT illinois DOT edu
   # phone: 888 888 88 88
-  # address:
-    # street: 450 Serra Mall
-    # city: Stanford
-    # region: CA
-    # postcode: '94305'
-    # country: United States
-    # country_code: US
-  #directions: 
+  directions: Siebel Center for Computer Science, Room 0220
+  address:
+    street: 201 N Goodwin Ave
+    city: Urbana
+    region: IL
+    postcode: '61801'
+    country: United States
+    country_code: US
+  
 
 design:
   columns: '2'

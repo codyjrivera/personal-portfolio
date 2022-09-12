@@ -1,6 +1,6 @@
 ---
 title: Differential Privacy Verification
-summary: Improving decidablility of real-number formulae for verification of differential privacy properties.
+summary: Using approximate solvers for non-linear real arithmetic to improve differential privacy verification.
 tags:
   - Programming Languages and Formal Methods
 date: '2022-01-01T00:00:00Z'
@@ -21,4 +21,4 @@ url_slides: ''
 url_video: ''
 ---
 
-Differential privacy is a technique that allows data to be aggregated while preserving the privacy of individual datapoints. Since differential privacy is defined mathematically, it is desirable and feasible to use formal techniques to determine properties of data-handling algorithms such as privacy and accuracy. To determine these properties, a program is encoded according to its semantics into a formula in the first-order theory of the reals with exponentiation, and the formula is then proved or disproved. However, some of the generated formulae fall into decidable fragments of the aforementioned theory, while others fall into undecidable fragments. Part of the project will be to investigate the decidability of a broader range of formulae, such as those formulae that are similar to a decidable formula. By enlarging the class of formulae corresponding to program encodings that tools can handle, this project aims to improve techniques for verifying differential privacy-related properties of programs.
+Differential privacy is a technique that allows data to be aggregated while preserving the privacy of individual datapoints. Since differential privacy is defined mathematically, it is desirable and feasible to use formal techniques to determine properties of data-handling algorithms such as privacy and accuracy. To determine these properties, a program is encoded according to its semantics into a formula in the first-order theory of the reals with exponentiation, and the formula is then proved or disproved. However, our current state-of-the-art tool is not particularly fast, and the class of programs that can be verified is limited. Therefore, one of the goals of this project is to incorporate approximate solvers for non-linear real arithmetic into our verification tool. Since the fragment of non-linear real arithmetic these approximate solvers can handle is larger, we also hope to expand the class of programs we can verify.

@@ -18,6 +18,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=WGLOY2QAAAAJ&hl=en&oi=ao
+  - icon: dblp
+    icon_pack: ai
+    link: https://dblp.org/pid/258/3143.html
   - icon: github
     icon_pack: fab
     link: https://github.com/codyjrivera

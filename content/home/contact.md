@@ -16,7 +16,7 @@ content:
   autolink: false
 
   # Contact details (edit or remove options as required)
-  email: codyjr3 AT illinois DOT edu
+  email: [first-name]jr3 AT illinois DOT edu
   # phone: 888 888 88 88
   directions: Siebel Center for Computer Science, Room 0220
   address:

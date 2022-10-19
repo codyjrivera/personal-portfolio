@@ -12,9 +12,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/codyriverapl
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/codyriverapl
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=WGLOY2QAAAAJ&hl=en&oi=ao
@@ -24,12 +24,15 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/codyjrivera
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/codyjrivera
+  #- icon: linkedin
+  #  icon_pack: fab
+  #  link: https://www.linkedin.com/in/codyjrivera
   - icon: cv
     icon_pack: ai
     link: uploads/RiveraCody_pubCV.pdf
+  - icon: calendar-lines-pen
+    icon_pack: fas
+    link: https://calendly.com/codyjr3
 organizations:
   - name: University of Illinois Urbana-Champaign
     url: https://cs.illinois.edu/

@@ -30,7 +30,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/RiveraCody_pubCV.pdf
-  - icon: calendar-lines-pen
+  - icon: calendar
     icon_pack: fas
     link: https://calendly.com/codyjr3
 organizations:

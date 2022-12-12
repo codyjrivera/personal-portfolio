@@ -4,10 +4,10 @@ bio: Cody Rivera is a Ph.D. student at the University of Illinois
   Urbana-Champaign, where he is doing research in programming languages and
   formal methods.
 interests:
-  - Programming Languages
-  - Formal Methods and Verification
+  - Formal Methods
+  - Distributed Systems
+  - Automated Reasoning
   - Compilers
-  - Parallel and Distributed Computing
 social:
   - icon: envelope
     icon_pack: fas

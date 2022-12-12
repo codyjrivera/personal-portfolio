@@ -3,7 +3,7 @@ url_pdf: ""
 summary: Using approximate solvers for non-linear real arithmetic to improve
   differential privacy verification.
 url_video: ""
-date: 2022-02-01T00:00:00Z
+date: 2022-01-01T00:00:00Z
 external_link: ""
 show_date: false
 url_slides: ""

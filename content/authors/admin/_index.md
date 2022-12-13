@@ -5,7 +5,7 @@ bio: Cody Rivera is a Ph.D. student at the University of Illinois
   formal methods.
 interests:
   - Formal Methods
-  - System Verification
+  - Systems Verification
   - Automated Reasoning
   - Concurrency and Parallelism
 social:

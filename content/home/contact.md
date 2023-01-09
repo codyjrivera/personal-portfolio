@@ -26,7 +26,7 @@ content:
     postcode: '61801'
     country: United States
     country_code: US
-  appointment_url: 'https://calendly.com/codyjr3'
+  # appointment_url: 'https://calendly.com/codyjr3'
   
 
 design:

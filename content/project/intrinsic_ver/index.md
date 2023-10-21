@@ -6,7 +6,7 @@ date: 2022-02-01T00:00:00Z
 external_link: ""
 show_date: false
 url_slides: ""
-title: Developing a Predictable Verification Paradigm with Intrinsic Defnitions of Data Structures
+title: Predictable Automatic Verification of Data Structures and Systems
 tags:
   - Programming Languages and Formal Methods
 image:

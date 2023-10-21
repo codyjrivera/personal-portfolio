@@ -5,8 +5,7 @@ bio: Cody Rivera is a Ph.D. student at the University of Illinois
   formal methods.
 interests:
   - Formal Methods
-  - Systems Verification
-  - Automated Reasoning
+  - Logic and Automated Reasoning
   - Concurrency and Parallelism
 social:
   - icon: envelope
@@ -46,7 +45,7 @@ highlight_name: true
 title: Cody Rivera
 email: ""
 ---
-Hi! I'm a first-year Ph.D. student at the University of Illinois Urbana-Champaign. I am broadly interested in formal verification, with more specific interests in distributed systems verification as well as logic and automated reasoning for verification. I am currently working with [Dr. Madhusudan Parthasarathy](http://madhu.cs.illinois.edu/) on verifying distributed protocols by encoding them as functional programs and verifying them with automated program verification tools. I am also working with [Dr. Mahesh Viswanathan](http://vmahesh.cs.illinois.edu/) on verification for differential privacy, where I am extending approximate solvers for nonlinear real arithmetic to improve differential privacy verification tools.
+Hi! I'm a second-year graduate student at the University of Illinois Urbana-Champaign. I am broadly interested in programming languages and formal verification, with more specific interests in logic and automated reasoning tools, as well as applying language and verification techniques to the concurrent setting. Some projects I'm working on are as follows: one project, with [Dr. Madhusudan Parthasarathy](http://madhu.cs.illinois.edu/), focuses on developing a predictable automatic verification paradigm that centers around local, or intrinsic definitions of data structures rather than recursive definitions. Another project, with [Dr. Mahesh Viswanathan](http://vmahesh.cs.illinois.edu/), focuses on differential privacy verification, where I am extending approximate solvers for nonlinear real arithmetic to improve differential privacy verification tools.
 
 Prior to joining Illinois, I did research in high-performance computing, where I worked primarily under [Dr. Dingwen Tao](https://www.dingwentao.com). I did this work as part of the [Randall Research Scholars Program](https://rrsp.ua.edu/), an honors interdisciplinary undergraduate research program at the University of Alabama. My research focus was parallel algorithm design and GPU performance engineering for scientific computing. Specific work I contributed to includes the lossy compressor cuSZ (part of the [SZ](https://szcompressor.org) compressor project) and high-performance linear algebra operations.
 

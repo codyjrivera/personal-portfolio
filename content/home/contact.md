@@ -18,7 +18,7 @@ content:
   # Contact details (edit or remove options as required)
   email: FIRST-NAMEjr3 AT illinois DOT edu (where FIRST-NAME = "cody")
   # phone: 888 888 88 88
-  directions: Siebel Center for Computer Science, Room 0220
+  directions: Siebel Center for Computer Science, Room 2111
   address:
     street: 201 N Goodwin Ave
     city: Urbana

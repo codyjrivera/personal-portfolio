@@ -1,0 +1,19 @@
+@article{rivera2021tsm2x,
+title = {TSM2X: High-performance tall-and-skinny matrix–matrix multiplication on GPUs},
+journal = {Journal of Parallel and Distributed Computing},
+volume = {151},
+pages = {70-85},
+year = {2021},
+issn = {0743-7315},
+doi = {https://doi.org/10.1016/j.jpdc.2021.02.013},
+url = {https://www.sciencedirect.com/science/article/pii/S0743731521000344},
+author = {Cody Rivera and Jieyang Chen and Nan Xiong and Jing Zhang and Shuaiwen Leon Song and Dingwen Tao},
+keywords = {Matrix–matrix multiplication, Tall-and-skinny matrix, GPU, CUDA, Performance optimization},
+abstract = {Linear algebra operations have been widely used in big data analytics and scientific computations. Many works have been done on optimizing linear algebra operations on GPUs with regular-shaped input. However, few works focus on fully utilizing GPU resources when the input is not regular-shaped. Current optimizations do not consider fully utilizing the memory bandwidth and computing power; therefore, they can only achieve sub-optimal performance. In this paper, we propose two efficient algorithms – TSM2R and TSM2L – for two classes of tall-and-skinny matrix–matrix multiplications on GPUs. Both of them focus on optimizing linear algebra operation with at least one of the input matrices tall-and-skinny. Specifically, TSM2R is designed for a large regular-shaped matrix multiplying a tall-and-skinny matrix, while TSM2L is designed for a tall-and-skinny matrix multiplying a small regular-shaped matrix. We implement our proposed algorithms and test on several modern NVIDIA GPU micro-architectures. Experiments show that, compared to the current state-of-the-art works, (1) TSM2R speeds up the computation by 1.6x on average and improves the memory bandwidth utilization and computing power utilization by 18.1% and 20.5% on average, respectively, when the regular-shaped matrix size is relatively large or medium; and (2) TSM2L speeds up the computation by 1.9x on average and improves the memory bandwidth utilization by up to 9.3% on average when the regular-shaped matrix size is relatively small.}
+}
+
+
+
+  
+
+

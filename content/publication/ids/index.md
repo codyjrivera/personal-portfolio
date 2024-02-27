@@ -11,7 +11,7 @@ authors:
 
 share: false
 
-date: '2023-11-01T00:00:00Z'
+date: '2024-01-01T00:00:00Z'
 #doi: '10.1016/j.jpdc.2021.02.013'
 
 # Publication type.
@@ -21,8 +21,8 @@ date: '2023-11-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Under Submission
-# publication_short: JPDC, Vol. 151
+publication: Conditionally Accepted to ACM SIGPLAN Conference on Programming Language Design and Implementation
+publication_short: Conditionally Accepted to PLDI
 
 tags: [Programming Languages and Formal Methods]
 

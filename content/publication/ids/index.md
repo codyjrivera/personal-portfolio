@@ -22,7 +22,7 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: Conditionally Accepted to ACM SIGPLAN Conference on Programming Language Design and Implementation
-publication_short: Conditionally Accepted to PLDI
+publication_short: Conditionally Accepted to PLDI '24
 
 tags: [Programming Languages and Formal Methods]
 

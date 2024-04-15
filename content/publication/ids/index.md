@@ -21,8 +21,8 @@ date: '2024-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Conditionally Accepted to ACM SIGPLAN Conference on Programming Language Design and Implementation
-publication_short: Conditionally Accepted to PLDI '24
+publication: To appear in the ACM SIGPLAN Conference on Programming Language Design and Implementation
+publication_short: To appear in PLDI '24
 
 tags: [Programming Languages and Formal Methods]
 
@@ -34,8 +34,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'publication/ids/paper.pdf'
+url_code: 'https://github.com/codyjrivera/ids-artifact'
 url_dataset: ''
 url_poster: ''
 url_project: ''
